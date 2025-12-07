@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ali 👋
 
-<!--
-**alidevs80-afk/alidevs80-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full‑stack developer passionate about building modern, accessible, and inclusive web applications.  
+I specialize in **Python, Flask, React, Tailwind CSS**, and enjoy exploring **AI/ML projects**.  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Frontend: React, Tailwind CSS, JavaScript
+- Backend: Python, Flask, MySQL
+- Tools: Git, VS Code, Conda, Virtual Environments
+- AI/ML: PyTorch, CNNs, Image Classification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- **Healthcare Dashboard** – Accessible, standards‑compliant web app for patient data visualization.  
+- **Portfolio Website** – Animated React + Tailwind portfolio showcasing my work.  
+- **AI Experiments** – Custom image classifiers and adaptive learning models.  
+
+## 📫 Connect
+- Email: ali.devs80@gmail.com  
+- LinkedIn: [linkedin.com/in/ali-devs80](https://linkedin.com/in/ali-devs80)  
