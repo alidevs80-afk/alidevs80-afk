@@ -722,8 +722,11 @@ Feel free to connect!
 # 🐍 GitHub Snake Setup
 
 
-Create this file:
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/alidevs80-afk/alidevs80-afk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ```
 .github/workflows/snake.yml
