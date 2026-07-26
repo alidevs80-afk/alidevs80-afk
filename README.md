@@ -479,17 +479,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidevs80-af
 # 🐍 Contribution Snake
 
 
-<div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </div>
+<div align="center">
 
-Add this yourself via the free platane/snk GitHub Action — it regenerates the snake from your live contribution graph on a schedule.
+<img src="https://raw.githubusercontent.com/alidevs80-afk/alidevs80-afk/output/github-contribution-grid-snake-dark.svg" />
 
-<br>
-
-
-
-> Generated automatically using GitHub Actions and the contribution snake workflow.
-
-
+</div>
 
 ---
 
@@ -728,56 +722,7 @@ Feel free to connect!
 
 </div>
 
-```
-.github/workflows/snake.yml
-```
 
-
-Add:
-
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-
-jobs:
-
-  generate:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@v3
-
-        with:
-
-          github_user_name: alidevs80-afk
-
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-
-
-      - uses: crazy-max/ghaction-github-pages@v4
-
-        with:
-
-          build_dir: dist
-
-        env:
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-```
-
----
 
 # 🌌 Final Footer
 
