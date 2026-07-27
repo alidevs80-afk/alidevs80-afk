@@ -418,12 +418,12 @@ Developer Tools
 <div align="center">
 
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=alidevs80-afk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=FFFFFF"/>
+<!-- <img height="180"
+src="https://github-readme-stats.vercel.app/api?username=alidevs80-afk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=FFFFFF"/> -->
 
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidevs80-afk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
+<!-- <img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidevs80-afk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/> -->
 
 
 </div>
@@ -432,7 +432,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidevs80-af
 
 <br>
 
-
+ 
 
 <div align="center">
 
@@ -458,10 +458,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidevs80-af
 </div>
 
 
-
 ---
 
-# 🏆 GitHub Achievements
+<!-- # 🏆 GitHub Achievements
 
 
 <div align="center">
@@ -470,20 +469,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidevs80-af
 <img src="https://github-profile-trophy.vercel.app/?username=alidevs80-afk&theme=radical&no-frame=true&row=1&column=6"/>
 
 
-</div>
-
-
-
----
-
-# 🐍 Contribution Snake
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/alidevs80-afk/alidevs80-afk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+</div> -->
 
 ---
 
@@ -724,7 +710,7 @@ Feel free to connect!
 
 
 
-# 🌌 Final Footer
+# 🌌 Footer
 
 
 <div align="center">
